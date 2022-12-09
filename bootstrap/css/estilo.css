@@ -1,0 +1,10 @@
+.caixa{
+    border: 1px solid rgba(159, 159, 159, 0.227);
+}
+footer p a{
+    margin: 5px 15px;
+    color: rgb(39, 39, 39);
+}
+footer p a:hover{
+    text-decoration: none;
+}
